@@ -1,19 +1,33 @@
-Go-скрипт для продвинутого фаззинга!
+🎯 Инструмент для самых продвинутых тестировщиков 🎯
 
-Генерирует все возможные символы и байты во всех известных кодировках, включая мультибайтные и редкие спецсимволы.
-Исключает стандартные алфавиты и цифры (по вашему выбору).
-Выводит результат в 4 файла: текстовые и бинарные для удобной интеграции в фаззинг-инструменты.
-Подходит для Burp Suite и других платформ тестирования!
+Для тех, кто ищет нестандартные решения, способные работать с любыми символами и кодировками. Этот скрипт создан специально для разработчиков с особым чутьем, готовых исследовать каждый уголок данных, как царь зверей в густых джунглях тестирования 🦁.
+
+Особенности:
+
+Генерация всех возможных символов и байтов
+Поддержка всех известных кодировок, включая самые экзотические
+Файлы для текстовых и бинарных нагрузок
+Полная свобода от стандартных алфавитов и цифр 😉
+Идеально для тех, кто предпочитает работать в тени, но всегда оставляет свой след в истории разработки.
 
 
+#тестирование #фаззинг #разработка #инструменты #символы #кодировки #тестировщики
+
+🎯 A tool for the most advanced testers 🎯
+
+For those who are looking for non-standard solutions that can work with any symbols and encodings. This script is created specifically for developers with a special flair, ready to explore every corner of the data, like the king of beasts in the dense jungle of testing 🦁.
+
+Features:
+
+Generation of all possible symbols and bytes
+Support for all known encodings, including the most exotic
+Files for text and binary loads
+Complete freedom from standard alphabets and numbers 😉
+Ideal for those who prefer to work in the shadows, but always leave their mark on the history of development.
 
 
-Go script for advanced fuzzing!
+#testing #fuzzing #development #tools #symbols #encodings #testers
 
-Generates all possible characters and bytes in all known encodings, including multibyte and rare special characters.
-Excludes standard alphabets and numbers (at your choice).
-Outputs the result to 4 files: text and binary for easy integration into fuzzing tools.
-Suitable for Burp Suite and other testing platforms!
 
 
 go run go_f_you.go
